@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:NTToolkit.xcodeproj">
+      location = "self:/Users/nathantannar/Documents/Active iOS Projects/NTToolkit/NTToolKit.xcodeproj">
    </FileRef>
 </Workspace>
