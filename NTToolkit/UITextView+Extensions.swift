@@ -1,6 +1,6 @@
 //
 //  UITextView+Extensions.swift
-//  NTToolkit
+//  NTToolKit
 //
 //  Copyright © 2017 Nathan Tannar.
 //

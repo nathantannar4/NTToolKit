@@ -1,6 +1,6 @@
-# NTToolkit
+# NTToolKit
 
-A collection of extensions I find helpful
+A collection of extensions I find helpful in addition to Lorem/Person string generation.
 
 ## Requirements
 

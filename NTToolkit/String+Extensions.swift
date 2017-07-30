@@ -1,6 +1,6 @@
 //
 //  String+Extensions.swift
-//  NTToolkit
+//  NTToolKit
 //
 //  Copyright © 2017 Nathan Tannar.
 //

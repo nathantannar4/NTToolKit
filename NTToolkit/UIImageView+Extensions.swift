@@ -1,6 +1,6 @@
 //
 //  UIImageView+Extensions.swift
-//  NTToolkit
+//  NTToolKit
 //
 //  Created by Nathan Tannar on 7/30/17.
 //  Copyright © 2017 Nathan Tannar. All rights reserved.
