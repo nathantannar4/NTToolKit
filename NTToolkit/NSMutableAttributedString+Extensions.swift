@@ -1,5 +1,5 @@
 //
-//  NSMutableAttributedString.swift
+//  NSMutableAttributedString+Extensions.swift
 //  NTToolkit
 //
 //  Copyright © 2017 Nathan Tannar.

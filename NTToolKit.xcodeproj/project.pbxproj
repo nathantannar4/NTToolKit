@@ -15,7 +15,7 @@
 		38A1DB501F2E51130002C7EE /* UIButton+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB3F1F2E51130002C7EE /* UIButton+Extensions.swift */; };
 		38A1DB511F2E51130002C7EE /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB401F2E51130002C7EE /* Date+Extensions.swift */; };
 		38A1DB521F2E51130002C7EE /* DispatchQueue+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB411F2E51130002C7EE /* DispatchQueue+Extensions.swift */; };
-		38A1DB531F2E51130002C7EE /* NSMutableAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB421F2E51130002C7EE /* NSMutableAttributedString.swift */; };
+		38A1DB531F2E51130002C7EE /* NSMutableAttributedString+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB421F2E51130002C7EE /* NSMutableAttributedString+Extensions.swift */; };
 		38A1DB541F2E51130002C7EE /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB431F2E51130002C7EE /* String+Extensions.swift */; };
 		38A1DB551F2E51130002C7EE /* UIColor+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB441F2E51130002C7EE /* UIColor+Extensions.swift */; };
 		38A1DB561F2E51130002C7EE /* UIImage+UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB451F2E51130002C7EE /* UIImage+UIImageView.swift */; };
@@ -39,7 +39,7 @@
 		38A1DB3F1F2E51130002C7EE /* UIButton+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Extensions.swift"; sourceTree = "<group>"; };
 		38A1DB401F2E51130002C7EE /* Date+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
 		38A1DB411F2E51130002C7EE /* DispatchQueue+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DispatchQueue+Extensions.swift"; sourceTree = "<group>"; };
-		38A1DB421F2E51130002C7EE /* NSMutableAttributedString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSMutableAttributedString.swift; sourceTree = "<group>"; };
+		38A1DB421F2E51130002C7EE /* NSMutableAttributedString+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSMutableAttributedString+Extensions.swift"; sourceTree = "<group>"; };
 		38A1DB431F2E51130002C7EE /* String+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
 		38A1DB441F2E51130002C7EE /* UIColor+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extensions.swift"; sourceTree = "<group>"; };
 		38A1DB451F2E51130002C7EE /* UIImage+UIImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+UIImageView.swift"; sourceTree = "<group>"; };
@@ -97,7 +97,7 @@
 				38A1DB3F1F2E51130002C7EE /* UIButton+Extensions.swift */,
 				38A1DB401F2E51130002C7EE /* Date+Extensions.swift */,
 				38A1DB411F2E51130002C7EE /* DispatchQueue+Extensions.swift */,
-				38A1DB421F2E51130002C7EE /* NSMutableAttributedString.swift */,
+				38A1DB421F2E51130002C7EE /* NSMutableAttributedString+Extensions.swift */,
 				38A1DB431F2E51130002C7EE /* String+Extensions.swift */,
 				38A1DB441F2E51130002C7EE /* UIColor+Extensions.swift */,
 				38A1DB451F2E51130002C7EE /* UIImage+UIImageView.swift */,
@@ -205,7 +205,7 @@
 				38A1DB5C1F2E51130002C7EE /* UIViewController.swift in Sources */,
 				38A1DB4F1F2E51130002C7EE /* UIApplication+Extensions.swift in Sources */,
 				38A1DB5B1F2E51130002C7EE /* CALayer+Extensions.swift in Sources */,
-				38A1DB531F2E51130002C7EE /* NSMutableAttributedString.swift in Sources */,
+				38A1DB531F2E51130002C7EE /* NSMutableAttributedString+Extensions.swift in Sources */,
 				38A1DB5E1F2E550D0002C7EE /* UIImageView+Extensions.swift in Sources */,
 				38A1DB5A1F2E51130002C7EE /* UIView+Extensions.swift in Sources */,
 				38A1DB4E1F2E51130002C7EE /* Int+Extensions.swift in Sources */,
