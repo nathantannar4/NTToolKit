@@ -26,8 +26,8 @@
 		38A1DB5B1F2E51130002C7EE /* CALayer+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB4A1F2E51130002C7EE /* CALayer+Extensions.swift */; };
 		38A1DB5C1F2E51130002C7EE /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB4B1F2E51130002C7EE /* UIViewController.swift */; };
 		38A1DB5E1F2E550D0002C7EE /* UIImageView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB5D1F2E550D0002C7EE /* UIImageView+Extensions.swift */; };
-		38A1DB641F2E596F0002C7EE /* Lorem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB621F2E596F0002C7EE /* Lorem.swift */; };
-		38A1DB651F2E596F0002C7EE /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A1DB631F2E596F0002C7EE /* Person.swift */; };
+		38C992781F3C1E3400A2F1C7 /* Lorem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C992761F3C1E3400A2F1C7 /* Lorem.swift */; };
+		38C992791F3C1E3400A2F1C7 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38C992771F3C1E3400A2F1C7 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,8 +55,8 @@
 		38A1DB5F1F2E55E40002C7EE /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		38A1DB601F2E55E40002C7EE /* NTToolKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = NTToolKit.podspec; sourceTree = SOURCE_ROOT; };
 		38A1DB611F2E55E40002C7EE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
-		38A1DB621F2E596F0002C7EE /* Lorem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Lorem.swift; path = ../../NTComponents/NTComponents/Miscellaneous/Lorem.swift; sourceTree = "<group>"; };
-		38A1DB631F2E596F0002C7EE /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Person.swift; path = ../../NTComponents/NTComponents/Miscellaneous/Person.swift; sourceTree = "<group>"; };
+		38C992761F3C1E3400A2F1C7 /* Lorem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lorem.swift; sourceTree = "<group>"; };
+		38C992771F3C1E3400A2F1C7 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +94,8 @@
 				38A1DB611F2E55E40002C7EE /* README.md */,
 				38A1DB331F2E50E90002C7EE /* NTToolkit.h */,
 				38A1DB341F2E50E90002C7EE /* Info.plist */,
-				38A1DB621F2E596F0002C7EE /* Lorem.swift */,
-				38A1DB631F2E596F0002C7EE /* Person.swift */,
+				38C992761F3C1E3400A2F1C7 /* Lorem.swift */,
+				38C992771F3C1E3400A2F1C7 /* Person.swift */,
 				38A1DB3B1F2E51130002C7EE /* UIView+AutoLayout.swift */,
 				38A1DB3C1F2E51130002C7EE /* Array+Extensions.swift */,
 				38A1DB3D1F2E51130002C7EE /* Int+Extensions.swift */,
@@ -204,13 +204,13 @@
 				38A1DB511F2E51130002C7EE /* Date+Extensions.swift in Sources */,
 				38A1DB521F2E51130002C7EE /* DispatchQueue+Extensions.swift in Sources */,
 				38A1DB561F2E51130002C7EE /* UIImage+UIImageView.swift in Sources */,
-				38A1DB641F2E596F0002C7EE /* Lorem.swift in Sources */,
+				38C992781F3C1E3400A2F1C7 /* Lorem.swift in Sources */,
 				38A1DB541F2E51130002C7EE /* String+Extensions.swift in Sources */,
 				38A1DB581F2E51130002C7EE /* UITextField+Extensions.swift in Sources */,
 				38A1DB571F2E51130002C7EE /* UISearchBar+Extensions.swift in Sources */,
 				38A1DB591F2E51130002C7EE /* UITextView+Extensions.swift in Sources */,
 				38A1DB5C1F2E51130002C7EE /* UIViewController.swift in Sources */,
-				38A1DB651F2E596F0002C7EE /* Person.swift in Sources */,
+				38C992791F3C1E3400A2F1C7 /* Person.swift in Sources */,
 				38A1DB4F1F2E51130002C7EE /* UIApplication+Extensions.swift in Sources */,
 				38A1DB5B1F2E51130002C7EE /* CALayer+Extensions.swift in Sources */,
 				38A1DB531F2E51130002C7EE /* NSMutableAttributedString+Extensions.swift in Sources */,
